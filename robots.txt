@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hansez.github.io/sitemap.xml
+Sitemap: https://diyap.github.io/sitemap.xml
