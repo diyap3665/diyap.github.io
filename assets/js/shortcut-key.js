@@ -1,0 +1,1 @@
+document.addEventListener("readystatechange",()=>{if("interactive"===document.readyState){document.querySelector("#search-toggle .nav-link")}});

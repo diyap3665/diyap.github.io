@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hansez.github.io/sitemap.xml
